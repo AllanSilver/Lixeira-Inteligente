@@ -22,3 +22,19 @@ O sistema utiliza um sensor ultrassônico para detectar a aproximação de usuá
 1. Importe os arquivos `sketch.ino` e `diagram.json` no simulador [Wokwi](https://wokwi.com).
 2. Instale as bibliotecas `PubSubClient` e `ESP32Servo`.
 3. Execute a simulação.
+## 🎥 Vídeo Demonstração
+
+📺 [Assista no YouTube](https://youtu.be/pj_Zsv5g-1s)
+
+## 🌍 Alinhamento ODS 11
+
+Este projeto está alinhado ao **Objetivo de Desenvolvimento Sustentável 11** 
+da ONU (Cidades e Comunidades Sustentáveis), contribuindo para a 
+modernização da gestão de resíduos sólidos urbanos por meio de tecnologia IoT.
+
+## 📚 Disciplina
+
+- **Curso:** Análise e Desenvolvimento de Sistemas — 5º Semestre
+- **Disciplina:** Objetos Inteligentes Conectados
+- **Instituição:** Universidade Presbiteriana Mackenzie — EAD Polo Santana/SP
+- **Aluno:** Allan Fernando Barbosa da Silveira | RA: 10443092
