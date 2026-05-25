@@ -107,3 +107,9 @@ void loop() {
   
   delay(500); 
 }
+
+    client.publish("lixeira/nivel", msg);
+  }
+  
+  delay(500); 
+}
